@@ -1,0 +1,2 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 HD" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 HD
