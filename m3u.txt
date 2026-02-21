@@ -1,2 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 SD+" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 SD+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 SD" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 Low" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 FHD" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 4K" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 Hevc" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 Hevc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_2 HD" tvg-logo="http://tv.asc.vg/max2.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_2 HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein_Max_1 HD" tvg-logo="http://tv.asc.vg/max1.bein.png" group-title="BeIN Max ? Source 1",Bein_Max_1 HD
